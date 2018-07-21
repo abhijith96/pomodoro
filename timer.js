@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button, TextInput, KeyboardAvoidingView, ScrollView  } from 'react-native';
 import Counter from './counter'
-import TimerForm from './timer-form'
+
 
 
 export default class Timer extends React.Component {
